@@ -1,0 +1,17 @@
+# JUCE build and temporary files
+/Builds/
+/JuceLibraryCode/
+
+# Visual Studio
+/.vs/
+/*.user
+/*.suo
+/*.db
+/ipch/
+/x64/
+/Debug/
+/Release/
+
+# Other
+.DS_Store
+Thumbs.db
